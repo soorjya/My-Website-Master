@@ -23,8 +23,8 @@ This is my personal website showcasing my portfolio and providing information ab
 
 To view the website locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/soorjya/personal-website.git`
-2. Navigate to the project directory: `cd personal-website`
+1. Clone the repository: `git clone https://github.com/soorjya/My-Website-Master.git`
+2. Navigate to the project directory: `cd My-Website-Master`
 3. Open the `index.html` file in your web browser.
 
 ## Dependencies
