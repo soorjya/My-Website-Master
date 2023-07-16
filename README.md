@@ -50,7 +50,7 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 For any inquiries or questions, please reach out to me through the following channels:
 
 
-- Email: [soorjya](soorjyakant17@gmail.com)
+- Email: soorjyakant17@gmail.com
 - Github: [Soorjya](https://github.com/soorjya)
 - LinkedIn: [Soorjyakanta](https://twitter.com/Soorjyakanta)
 - Twitter: [@Soorjyakanta](https://www.linkedin.com/in/soorjyakanta-sethy-60796b1a0/)
